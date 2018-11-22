@@ -48,7 +48,8 @@ nav li {
   display: inline;
   border: 3px solid #DD9934;
   margin-left: 10px;
-  margin-top: 20%;
+  margin-top: 10%;
+  margin-bottom: 50%;
   padding-left: 50px;
   padding-right: 50px;
   text-decoration: none;
@@ -93,21 +94,15 @@ nav a{
 .contact{
   size: 200px 600px;
   border: 2px solid #AAA;
-  margin-top: 20px;
+  margin-top: 15%;
+  margin-left: 10px;
+  margin-right: 15px;
   padding: 50px 10px 50px 10px;
   background: linear-gradient(#990,#555);
   text-align: center;
   box-shadow: 10px 10px 2px #808085;
 }
 
-#contact{
-  border: 5px solid #AAA;
-  margin-top: 10px;
-  padding: 50px 10px 50px 10px;
-  background: linear-gradient(#990,#555);
-  text-align: center;
-  box-shadow: 10px 10px 2px #808085;
-}
 .materiel img{
    width: 100px;
    height: 50px;
