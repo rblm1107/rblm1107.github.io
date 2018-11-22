@@ -58,12 +58,42 @@ nav a{
   color: black;
   text-decoration: underline; 
 }
+.contact li{
+  display: inline;
+
+}
+.cont{
+  text-align: center;
+  margin-top: 20px;
+}
+
+.cont li{
+  display: inline;
+  text-align: center;
+
+}
+
+.cont img{
+  width: 200px;
+  height: 80px;
+  justify-content: space-between;
+  margin-left: 20px;
+  border: 1px solid black;
+}
+.contact img{
+  width: 60px;
+  height: 60px;
+  justify-content: space-between;
+  margin-left: 20px;
+  border-radius: 15px;
+
+}
 
 
 .contact{
   size: 200px 600px;
-  border: 5px solid #AAA;
-  margin-top: 30%;
+  border: 2px solid #AAA;
+  margin-top: 20px;
   padding: 50px 10px 50px 10px;
   background: linear-gradient(#990,#555);
   text-align: center;
