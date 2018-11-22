@@ -1,0 +1,92 @@
+}
+ .footer li{
+      display: inline;
+      margin-right: 30px;
+     }
+.footer a:hover{
+  content: url(digitalent.jpg);
+  width: 200px;
+  height: 100px;
+}
+.footer {
+      width: 800px;
+      height:550px;
+      display: inline;
+      text-align: center;
+      margin-top: 20px;
+      justify-content: center;
+      
+     }
+.footer a{
+  display: inline;
+}
+
+    nav li:hover {
+background-color: #dd9934;
+}
+
+
+ nav p{
+  width: 20px;
+  height: 50px;
+  background: #DD9934;
+  font-size: 35px;
+  transition: width 1s;
+  text-decoration: underline;
+ 
+}
+nav p:hover{
+  width: 400px;
+}
+#l{
+        width: 200px;
+        height:350px;
+
+      }
+nav li {
+  font-size: 25px;
+  display: inline;
+  border: 3px solid #DD9934;
+  margin-left: 10px;
+  margin-top: 20%;
+  padding-left: 50px;
+  padding-right: 50px;
+  text-decoration: none;
+  border-radius: 20px;
+}
+nav a{
+  color: black;
+  text-decoration: underline; 
+}
+
+
+.contact{
+  size: 200px 600px;
+  border: 5px solid #AAA;
+  margin-top: 30%;
+  padding: 50px 10px 50px 10px;
+  background: linear-gradient(#990,#555);
+  text-align: center;
+  box-shadow: 10px 10px 2px #808085;
+}
+
+#contact{
+  border: 5px solid #AAA;
+  margin-top: 10px;
+  padding: 50px 10px 50px 10px;
+  background: linear-gradient(#990,#555);
+  text-align: center;
+  box-shadow: 10px 10px 2px #808085;
+}
+.materiel img{
+   width: 100px;
+   height: 50px;
+   border-radius: 100px;
+   float: left;
+   margin-left: 50px;
+  
+
+}
+.materiel p{
+
+}
