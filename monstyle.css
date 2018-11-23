@@ -1,25 +1,4 @@
-}
- .footer li{
-      display: inline;
-      margin-right: 30px;
-     }
-.footer a:hover{
-  content: url(digitalent.jpg);
-  width: 200px;
-  height: 100px;
-}
-.footer {
-      width: 800px;
-      height:550px;
-      display: inline;
-      text-align: center;
-      margin-top: 20px;
-      justify-content: center;
-      
-     }
-.footer a{
-  display: inline;
-}
+
 
     nav li:hover {
 background-color: #dd9934;
@@ -59,28 +38,11 @@ nav a{
   color: black;
   text-decoration: underline; 
 }
+
 .contact li{
   display: inline;
-
-}
-.cont{
-  text-align: center;
-  margin-top: 20px;
 }
 
-.cont li{
-  display: inline;
-  text-align: center;
-
-}
-
-.cont img{
-  width: 200px;
-  height: 80px;
-  justify-content: space-between;
-  margin-left: 20px;
-  border: 1px solid black;
-}
 .contact img{
   width: 60px;
   height: 60px;
@@ -109,9 +71,48 @@ nav a{
    border-radius: 100px;
    float: left;
    margin-left: 50px;
-  
-
 }
+
 .materiel p{
 
+}
+
+.cont{
+  text-align: center;
+  margin-top: 20px;
+}
+
+.cont li{
+  display: inline;
+  text-align: center;
+
+}
+
+.cont img{
+  width: 200px;
+  height: 80px;
+  justify-content: space-between;
+  margin-left: 20px;
+  border: 1px solid black;
+}
+.footer li{
+      display: inline;
+      margin-right: 30px;
+     }
+.footer a:hover{
+  content: url(digitalent.jpg);
+  width: 200px;
+  height: 100px;
+}
+.footer {
+      width: 800px;
+      height:550px;
+      display: inline;
+      text-align: center;
+      margin-top: 20px;
+      justify-content: center;
+      
+     }
+.footer a{
+  display: inline;
 }
