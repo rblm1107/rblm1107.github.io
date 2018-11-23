@@ -99,7 +99,7 @@ nav a{
       display: inline;
       margin-right: 30px;
      }
-.footer a:hover{
+.footer li:hover{
   content: url(digitalent.jpg);
   width: 200px;
   height: 100px;
@@ -129,7 +129,7 @@ nav a{
 .rotation p{
   font-size: 20px;
   font-weight: bold;
-  font-family:  serif;
+  font-family:  'Monoton', cursive;
   
 
 
